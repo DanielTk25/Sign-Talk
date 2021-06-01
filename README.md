@@ -1,5 +1,5 @@
-# [Sign-tALK](https://danieltk26.github.io/See-Me-Duo/)</h2>
-Start a Call | Join a Call | Unlimited usage | Enjoy !
+# [Sign-Talk](https://danieltk25.github.io/Sign-Talk/)</h2>
+A.I Sign-Text Translator | Sign-Language Dictionary 
 
 ![alt text](demo1.gif)
 <p align="center">
@@ -10,13 +10,15 @@ Start a Call | Join a Call | Unlimited usage | Enjoy !
 <hr />
 
 
-<h2>See Me Duo</h2>
+<h2>Sign-Talk</h2>
 
-<h3>Meet your friends and relatives virtually</h3>
+<h3>Using A.I to help speech-impaired people</h3>
 
-See Me Duo is a video-call web app. It works on all devices and is completely free of cost with unlimited usage. Each call room has a unique generated meeting Id which ensures security. You can start a call or join one. The main languages used are Javascript(peer.js), HTML and CSS.  
 
-Check it out [here](https://danieltk26.github.io/See-Me-Duo/)
+Sign-Talk is an A.I app that helps people suffering with speech impairment to communicate. It uses AI to convert sign-language into text. It also has a Sign-Language dictionary that converts any word or sentence into sign language.
+
+
+Check it out [here](https://danieltk25.github.io/Sign-Talk/)
 
  
 <h3 align="center">Have a nice Day Ahead 😁😉 !!!</h3>
