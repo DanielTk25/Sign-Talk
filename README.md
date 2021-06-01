@@ -1,9 +1,9 @@
-# [See Me Duo](https://danieltk26.github.io/See-Me-Duo/)</h2>
+# [Sign-tALK](https://danieltk26.github.io/See-Me-Duo/)</h2>
 Start a Call | Join a Call | Unlimited usage | Enjoy !
 
-![alt text](https://github.com/DanielTk26/See-Me-Duo/blob/main/laptop%20demo.png)
+![alt text](demo1.gif)
 <p align="center">
-  <b><i>See Me Duo Demo</i></b>
+  <b><i>Sign-Talk Demo</i></b>
 
 
 <br />
